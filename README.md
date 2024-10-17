@@ -1,6 +1,6 @@
-# NoobCheatSheets
+<img src="https://github.com/Omarhio/noobcheatsheets/blob/main/noob.png" alt="Noob" width="80"/> # NoobCheatSheets <img src="https://github.com/Omarhio/noobcheatsheets/blob/main/noob.png" alt="Noob" width="80"/>
 
-## Raccourcis VS Code           <img src="https://github.com/Omarhio/noobcheatsheets/blob/main/ghost_noob.png" alt="Noob" width="80"/>
+## Raccourcis VS Code
 
 | Raccourci                              | Description                                      |
 |----------------------------------------|--------------------------------------------------|
