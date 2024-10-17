@@ -1,6 +1,8 @@
-# 📝 NoobCheatSheets
+# 📝 **NoobCheatSheets**
 
-## 🛠️ Commandes Git
+---
+
+## 🛠️ **Commandes Git**
 
 | **Commande**                          | **Description**                                  |
 |---------------------------------------|--------------------------------------------------|
@@ -19,24 +21,23 @@
 
 ---
 
-## 💻 Raccourcis VS Code
+## 💻 **Raccourcis VS Code**
 
 | **Raccourci**                         | **Description**                                  |
 |---------------------------------------|--------------------------------------------------|
-| `Ctrl + P`                            | Ouvrir rapidement un fichier                     |
-| `Ctrl + Shift + P`                    | Ouvrir la palette de commandes                   |
-| `Ctrl + \``                           | Ouvrir le terminal intégré                       |
-| `Ctrl + K, Ctrl + S`                  | Ouvrir les raccourcis clavier                    |
-| `Alt + flèches`                       | Déplacer une ligne ou une sélection              |
-| `Ctrl + D`                            | Sélectionner la prochaine occurrence d’un mot    |
-| `Ctrl + Shift + L`                    | Sélectionner toutes les occurrences d’un mot     |
-| `Ctrl + /`                            | Commenter/décommenter une ligne                  |
+| `Ctrl + P`                            | Ouvre rapidement un fichier                      |
+| `Ctrl + Shift + P`                    | Ouvre la palette de commandes                    |
+| `Ctrl + K, Ctrl + S`                  | Ouvre les raccourcis clavier                     |
+| `Alt + flèches`                       | Déplace une ligne ou une sélection               |
+| `Ctrl + D`                            | Sélectionne la prochaine occurrence d’un mot     |
+| `Ctrl + Shift + L`                    | Sélectionne toutes les occurrences d’un mot      |
+| `Ctrl + /`                            | Commente/décommente une ligne                    |
 | `Ctrl + Shift + F`                    | Rechercher dans tous les fichiers                |
 | `Ctrl + B`                            | Basculer la barre latérale                       |
 
 ---
 
-## 🐧 Commandes Linux
+## 🐧 **Commandes Linux**
 
 | **Commande**                           | **Description**                                  |
 |----------------------------------------|--------------------------------------------------|
@@ -53,3 +54,5 @@
 | `apt update && apt upgrade`            | Met à jour les paquets                           |
 
 ---
+
+✨ **Happy coding!** ✨
