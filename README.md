@@ -15,4 +15,4 @@
 | `Ctrl + Shift + F`                     | Rechercher dans tous les fichiers                |
 | `Ctrl + B`                             | Basculer la barre latérale                       |
 
-`![alt text](https://github.com/Omarhio/noobcheatsheets/blob/main/ghost_noob.png)`
+![alt text](https://github.com/Omarhio/noobcheatsheets/blob/main/ghost_noob.png)
