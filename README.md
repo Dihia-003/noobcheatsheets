@@ -1,4 +1,4 @@
-# NoobCheatSheets <img src="https://github.com/Omarhio/noobcheatsheets/blob/main/ghost_noob.png" alt="Noob" width="80"/>
+# NoobCheatSheets
 
 ## Raccourcis VS Code
 
@@ -8,7 +8,7 @@
 | `Ctrl + Shift + P`                     | Ouvrir la palette de commandes                   |
 | `Ctrl + ` (backtick)                   | Ouvrir le terminal intégré                       |
 | `Ctrl + K, Ctrl + S`                   | Ouvrir les raccourcis clavier                    |
-| `Alt + flèches`                        | Déplacer une ligne ou une sélection              |
+| `Alt + flèches`                        | Déplacer une ligne ou une sélection              |    <img src="https://github.com/Omarhio/noobcheatsheets/blob/main/ghost_noob.png" alt="Noob" width="80"/>       
 | `Ctrl + D`                             | Sélectionner la prochaine occurrence d’un mot    |
 | `Ctrl + Shift + L`                     | Sélectionner toutes les occurrences d’un mot     |
 | `Ctrl + /`                             | Commenter/décommenter une ligne                  |
