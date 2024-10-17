@@ -1,4 +1,4 @@
-# NoobCheatSheets
+# NoobCheatSheets <img src="https://github.com/Omarhio/noobcheatsheets/blob/main/ghost_noob.png" alt="Noob" width="100"/>
 
 ## Raccourcis VS Code
 
@@ -14,6 +14,3 @@
 | `Ctrl + /`                             | Commenter/décommenter une ligne                  |
 | `Ctrl + Shift + F`                     | Rechercher dans tous les fichiers                |
 | `Ctrl + B`                             | Basculer la barre latérale                       |
-
-![Noob](https://github.com/Omarhio/noobcheatsheets/blob/main/ghost_noob.png)
-<img src="https://github.com/Omarhio/noobcheatsheets/blob/main/ghost_noob.png" alt="Noob" width="50"/>
