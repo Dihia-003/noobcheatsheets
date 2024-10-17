@@ -1,4 +1,4 @@
-# noobcheatsheets
+# NoobCheatSheets
 
 ## Raccourcis VS Code
 
@@ -15,4 +15,5 @@
 | `Ctrl + Shift + F`                     | Rechercher dans tous les fichiers                |
 | `Ctrl + B`                             | Basculer la barre latérale                       |
 
-![alt text](https://github.com/Omarhio/noobcheatsheets/blob/main/ghost_noob.png)
+![Noob](https://github.com/Omarhio/noobcheatsheets/blob/main/ghost_noob.png)
+<img src="https://github.com/Omarhio/noobcheatsheets/blob/main/ghost_noob.png" alt="Noob" width="50"/>
